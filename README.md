@@ -1,4 +1,4 @@
-# sukilights
+# suki_lights
 키노라이츠 클론 코딩입니다.
 
 - OTT가 아닌 애니메이션 위주
