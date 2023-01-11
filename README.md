@@ -8,3 +8,10 @@
 ### 프로젝트 목표
 - 개인적 용도에서 사용
 - 기초적인 JPA, Spring Boot 학습
+
+### 프로젝트 정보
+- Spring Boot 3.0.1
+- Java 17 (for JPA)
+- thymeleaf
+- JPA, Lombok
+- Maria DB
